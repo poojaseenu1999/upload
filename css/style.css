@@ -1,0 +1,24 @@
+body {
+    background-image: url(../images/bg.jpg) ;
+    background-size: cover;
+}
+.text {
+    color:#b5076b;
+    background-color: #fee2b3 ;
+    border: 2px solid #fee2b3 ;
+    width: 400px;
+    }
+    .text:hover {
+        background-color: black;
+        border-radius: 5px;
+    }
+#can {
+    width: 300px;
+    height: 400px;
+    border: 2px solid black;
+}
+#finput {
+ margin-top: 20px;
+ color: white;
+
+}
